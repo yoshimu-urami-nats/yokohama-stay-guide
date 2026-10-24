@@ -1,0 +1,8 @@
+# 公開用リポジトリは許可した6ファイルのみを対象にする。
+/*
+!/.gitignore
+!/index.html
+!/README.md
+!/.nojekyll
+!/hotel_report.pdf
+!/research_data.json
